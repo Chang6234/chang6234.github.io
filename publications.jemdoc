@@ -1,0 +1,75 @@
+# jemdoc: menu{MENU}{publications.html}
+= Publications
+
+∗ Equal contribution. Authors marked α–β are listed in alphabetical order.
+
+== Journal and Conference Papers
+
+- [https://arxiv.org/abs/2512.06231 New Results on the Polyak Stepsize: Tight Convergence Analysis and Universal Function Classes] \n
+*Chang He*∗, Wenzhi Gao∗, Bo Jiang, Madeleine Udell, and Shuzhong Zhang \n
+SIAM Journal on Optimization, accepted, 2026
+
+- [https://link.springer.com/article/10.1007/s10898-025-01575-5 On Approximation Algorithms for Commutative Quaternion Polynomial Optimization] \n
+*Chang He*, Bo Jiang, Hongye Wang, and Xihua Zhu (α–β) \n
+Journal of Global Optimization, 2025
+
+- [https://link.springer.com/article/10.1007/s10915-025-03154-y Beyond Nonconvexity: A Universal Trust-Region Method with New Analyses] \n
+Yuntian Jiang∗, *Chang He*∗, Chuwen Zhang∗, Dongdong Ge, Bo Jiang, and Yinyu Ye \n
+Journal of Scientific Computing, 2025
+
+- [https://pubsonline.informs.org/doi/abs/10.1287/moor.2023.0132 A Homogeneous Second-Order Descent Method for Nonconvex Optimization] \n
+Chuwen Zhang, *Chang He*, Yuntian Jiang, Chenyu Xue, Bo Jiang, Dongdong Ge, and Yinyu Ye \n
+Mathematics of Operations Research, 2025
+
+- [https://link.springer.com/article/10.1007/s10107-025-02230-3 Homogeneous Second-Order Descent Framework: A Fast Alternative to Newton-Type Methods] \n
+*Chang He*∗, Yuntian Jiang∗, Chuwen Zhang∗, Dongdong Ge, Bo Jiang, and Yinyu Ye \n
+Mathematical Programming, 2025. [https://web.stanford.edu/class/msande314/lecture16OPTMLDS Slides] \n
+*2025 iSoGO Student Paper Award*. [http://www.globaloptimization.org/prizes/isogo-prizes/ Award announcement]
+
+- [https://proceedings.mlr.press/v235/he24h.html Riemannian Accelerated Zeroth-Order Algorithm: Improved Robustness and Lower Query Complexity] \n
+*Chang He*, Zhaoye Pan, Xiao Wang, and Bo Jiang \n
+International Conference on Machine Learning (ICML), 2024
+
+- [https://link.springer.com/article/10.1007/s10898-022-01210-7 Quaternion Matrix Decomposition and its Theoretical Implications] \n
+*Chang He*, Bo Jiang, and Xihua Zhu (α–β) \n
+Journal of Global Optimization, 2023
+
+== Papers Under Revision
+
+- [https://www.arxiv.org/abs/2507.22855 Federated Learning on Riemannian Manifolds: A Gradient-Free Projection-Based Approach] \n
+Hongye Wang∗, Zhaoye Pan∗, *Chang He*∗, Jiaxiang Li, and Bo Jiang \n
+Under revision at IEEE Transactions on Automatic Control
+
+- [https://arxiv.org/abs/2508.03048 On Relatively Smooth Optimization over Riemannian Manifolds] \n
+*Chang He*, Jiaxiang Li, Bo Jiang, Shiqian Ma, and Shuzhong Zhang \n
+Under revision at Mathematics of Operations Research
+
+- [https://arxiv.org/abs/2508.04822 The Second-Order Tâtonnement: Decentralized Interior-Point Methods for Market Equilibrium] \n
+Chuwen Zhang, *Chang He*, Bo Jiang, and Yinyu Ye \n
+Under revision at Operations Research. [https://drive.google.com/file/d/1K5C3Mb6L54u5zKcbQjemngHerl4wMX02/view Slides]
+
+== Technical Notes
+
+- [https://arxiv.org/abs/2605.14409 On the Nature of Regularity Assumptions in Bilevel Optimization with Constrained Lower-level Problem] \n
+Xiaotian Jiang, *Chang He*, Mingyi Hong, and Shuzhong Zhang \n
+Preprint, 2026
+
+- [https://arxiv.org/abs/2602.09840 Adaptive Single-Loop Methods for Stochastic Minimax Optimization on Riemannian Manifolds] \n
+Hongye Wang, *Chang He*, and Bo Jiang \n
+Preprint, 2026
+
+- [https://arxiv.org/abs/2601.13519 Small Gradient Norm Regret for Online Convex Optimization] \n
+Wenzhi Gao, *Chang He*, and Madeleine Udell (α–β) \n
+Preprint, 2026
+
+- [https://arxiv.org/abs/2511.05788 History-Aware Adaptive High-Order Tensor Regularization] \n
+*Chang He*, Bo Jiang, Yuntian Jiang, Chuwen Zhang, and Shuzhong Zhang (α–β) \n
+Preprint, 2025
+
+- [https://arxiv.org/abs/2508.04654 Non-Stationary Bandit Convex Optimization: An Optimal Algorithm with Two-Point Feedback] \n
+*Chang He*, Bo Jiang, and Shuzhong Zhang \n
+Preprint, 2025
+
+- [https://arxiv.org/abs/2208.00208 DRSOM: A Dimension Reduced Second-Order Method] \n
+Chuwen Zhang, Dongdong Ge, *Chang He*, Bo Jiang, Yuntian Jiang, and Yinyu Ye \n
+Preprint, 2022

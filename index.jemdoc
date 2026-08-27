@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{index.html}
+= Chang He (何畅)
+
+~~~
+{}{img_left}{photos/changhe.webp}{Portrait of Chang He in Chicago}{218}{245}{}
+I am joining the [https://cse.umn.edu/isye Department of Industrial and Systems Engineering] at the [https://twin-cities.umn.edu/ University of Minnesota Twin Cities] as a Ph.D. student in Fall 2026. \n
+I received my Ph.D. in Management Science and Engineering from [https://english.sufe.edu.cn/ Shanghai University of Finance and Economics], where I was advised by [https://sites.google.com/site/isyebojiang Prof. Bo Jiang]. Before that, I received my B.Sc. in Mathematics from [https://english.ecnu.edu.cn/ East China Normal University] in 2021. During 2025, I was a visiting student at the University of Minnesota, working with [https://sites.google.com/umn.edu/shuzhong-zhang Prof. Shuzhong Zhang]. \n
+My research interests lie in continuous optimization, with applications in machine learning and operations research. I am particularly interested in zeroth-order (derivative-free) optimization, Riemannian optimization, and first- and second-order methods. \n
+E-mail: ischanghe \[at\] gmail \[dot\] com \n
+[https://scholar.google.com/citations?user=5LpHDYAAAAAJ&hl=en Google Scholar]
+~~~
+
+== Selected Works
+
+- [https://arxiv.org/abs/2512.06231 New Results on the Polyak Stepsize: Tight Convergence Analysis and Universal Function Classes] \n
+*Chang He*∗, Wenzhi Gao∗, Bo Jiang, Madeleine Udell, and Shuzhong Zhang \n
+SIAM Journal on Optimization, accepted, 2026
+
+- [https://link.springer.com/article/10.1007/s10107-025-02230-3 Homogeneous Second-Order Descent Framework: A Fast Alternative to Newton-Type Methods] \n
+*Chang He*∗, Yuntian Jiang∗, Chuwen Zhang∗, Dongdong Ge, Bo Jiang, and Yinyu Ye \n
+Mathematical Programming, 2025. [https://web.stanford.edu/class/msande314/lecture16OPTMLDS Slides] \n
+*2025 iSoGO Student Paper Award*. [http://www.globaloptimization.org/prizes/isogo-prizes/ Award announcement]
+
+- [https://proceedings.mlr.press/v235/he24h.html Riemannian Accelerated Zeroth-Order Algorithm: Improved Robustness and Lower Query Complexity] \n
+*Chang He*, Zhaoye Pan, Xiao Wang, and Bo Jiang \n
+International Conference on Machine Learning (ICML), 2024
+
+∗ Equal contribution.
+
+[/publications.html View all publications]
+
+== Service
+
+- Referee for /Journal of Global Optimization/
+- Referee for /Linear Algebra and its Applications/
+- Referee for /Mathematics of Operations Research/
+- Referee for /IEEE Transactions on Automatic Control/
+- Referee for /SIAM Journal on Optimization/
+- Referee for /Communications on Applied Mathematics and Computation/
+- Referee for AISTATS 2026 and NeurIPS 2026
